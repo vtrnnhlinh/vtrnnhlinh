@@ -3,6 +3,7 @@
 I am Linh, welcome to my GitHub.
 
 - 🌱 I’m a Computer Engineer student at Ho Chi Minh University of Technology (HCMUT)
-- :sunglasses: My interests: IoT and Security
+- :sunglasses: My interests: IoT, Security, Mathematics and Sciences in general.
 - 😄 Pronouns: she/her
-- :heart: Favorite programming languages: C/C++, MIPS Assembly
+- :heart: My love: C/C++
+- :books: Hobbies: Reading classical books. Favorite ones: One Hundred Years of Solitude, The little prince.
