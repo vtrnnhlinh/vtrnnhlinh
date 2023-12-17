@@ -6,4 +6,6 @@ I am Linh, welcome to my GitHub.
 - :sunglasses: My interests: IoT, Security, Mathematics and Sciences in general.
 - 😄 Pronouns: she/her
 - :heart: My love: C/C++
-- :books: Hobbies: Reading classical books. Favorite ones: One Hundred Years of Solitude, The little prince.
+- :books: Hobbies: Reading classical books. Favorite ones: One Hundred Years of Solitude, The Little Prince.
+
+If you have any interests, don't hesitate to email me!
