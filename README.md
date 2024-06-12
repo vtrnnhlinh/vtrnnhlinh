@@ -7,4 +7,4 @@ Welcome to my GitHub! You can call me Linh.
 - :heart: My love: C/C++ & nvim
 - :books: My personal hobbies: Mathematics, IoT & Embedded Systems, Languages, Books.
 
-If you have any interests, don't hesitate to email me!
+If you want to have a talk, don't hesitate to email me!
