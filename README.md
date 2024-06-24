@@ -8,5 +8,7 @@ Welcome to my GitHub! You can call me Linh.
 - :books: My personal hobbies: Mathematics, Languages, Books.
 
 If you want to have a talk, don't hesitate to email me!
+
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vtrnnhlinh)](https://github.com/vtrnnhlinh/github-profile-trophy)
