@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
-<h3 align="center">A life-long learner from Vietnam</h3>
 
 - 🔭 I’m currently working on **Circuit Cutting**
 
