@@ -8,6 +8,8 @@
 
 - 👨‍💻 Know more about me: [vtrnnhlinh.github.io](https://vtrnnhlinh.github.io/)
 
+- Proudly run tech pj to support my idol at [phocheo org](https://github.com/phocheo)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vtrnnhlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vtrnnhlinh" height="30" width="40" /></a>
