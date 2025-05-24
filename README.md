@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 
-- 🔭 I’m currently working on **Scheduling Resources in Quantum Computing**
+- 🔭 I’m currently working on **C Static Testing**
 
 - 💬 Ask me about **nvim, cpp and linux**
 
