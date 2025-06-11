@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 
-- 🔭 I’m currently working on **C Static Testing**
+- 🔭 I’m currently working on **C Static Testing** and **Mixture-of-Experts (MoE)**.
 
-- 💬 Ask me about **nvim, cpp and linux**
+- 💬 Ask me about **nvim, cpp and linux**.
 
-- 📫 How to reach me **vtrnnhlinh@gmail.com**
+- 📫 How to reach me **vtrnnhlinh@gmail.com**.
 
-- 👨‍💻 Know more about me: [vtrnnhlinh.github.io](https://vtrnnhlinh.github.io/)
+- 👨‍💻 Know more about me: [vtrnnhlinh.github.io](https://vtrnnhlinh.github.io/).
 
-- Proudly run tech pj to support my idol at [phocheo org](https://github.com/phocheo)
+- Proudly run tech-related projects to support my idol at [phocheo org](https://github.com/phocheo).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
