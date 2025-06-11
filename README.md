@@ -2,13 +2,15 @@
 
 - 🔭 I’m currently working on **C Static Testing** and **Mixture-of-Experts (MoE)**.
 
+- ⚛️ My thesis: [vtrnnhlinh/thesis](https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf)
+
 - 💬 Ask me about **nvim, cpp and linux**.
 
 - 📫 How to reach me **vtrnnhlinh@gmail.com**.
 
 - 👨‍💻 Know more about me: [vtrnnhlinh.github.io](https://vtrnnhlinh.github.io/).
 
-- Proudly run tech-related projects to support my idol at [phocheo org](https://github.com/phocheo).
+- Proudly run tech-related projects to support my idol at [phocheo](https://github.com/phocheo).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
