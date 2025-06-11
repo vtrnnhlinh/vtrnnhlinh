@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **C Static Testing** and **Mixture-of-Experts (MoE)**.
 
-- ⚛️ My thesis: [vtrnnhlinh/thesis](https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf)
+- ⚛️ My thesis: [vtrnnhlinh/thesis](https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf).
 
 - 💬 Ask me about **nvim, cpp and linux**.
 
